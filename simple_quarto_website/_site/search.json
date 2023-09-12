@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "slides/slides.html#section-1",
+    "href": "slides/slides.html#section-1",
+    "title": "DSAN5000-Lab1.2",
+    "section": "Section 1",
+    "text": "Section 1\ncitation:\n(Zhou et al. 2021)"
+  },
+  {
+    "objectID": "slides/slides.html#section-2",
+    "href": "slides/slides.html#section-2",
+    "title": "DSAN5000-Lab1.2",
+    "section": "Section 2",
+    "text": "Section 2\nembedded images:"
+  },
+  {
+    "objectID": "slides/slides.html#section-3",
+    "href": "slides/slides.html#section-3",
+    "title": "DSAN5000-Lab1.2",
+    "section": "Section 3",
+    "text": "Section 3\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nx = np.linspace(0, 2 * np.pi, 400)\ny = np.sin(x ** 3)\n\nfig, axs = plt.subplots(2)\naxs[0].plot(x, y)\naxs[1].plot(x, -y)\n\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#citations",
+    "href": "slides/slides.html#citations",
+    "title": "DSAN5000-Lab1.2",
+    "section": "Citations:",
+    "text": "Citations:\n\n\n\n\n\n\nZhou, Haoyi, Shanghang Zhang, Jieqi Peng, Shuai Zhang, Jianxin Li, Hui Xiong, and Wancai Zhang. 2021. “Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting.” In Proceedings of the AAAI Conference on Artificial Intelligence, 35:11106–15. 12."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Cornhole listicle ramps, DSA tousled salvia taiyaki blue bottle iceland ennui hashtag sus yes plz. Chillwave roof party hella marfa tofu whatever humblebrag tonx, food truck pop-up YOLO microdosing 3 wolf moon kale chips paleo.\n\n\nFreegan vaporware cupping blog, portland grailed asymmetrical knausgaard artisan tousled. Seitan DIY crucifix, roof party celiac slow-carb fixie shaman four dollar toast before they sold out taiyaki health goth bushwick sartorial. Truffaut synth edison bulb freegan gorpcore tousled mustache.\n\n\nKinfolk keytar intelligentsia, kogi marxism mustache bespoke street art whatever kombucha vaporware tumeric sus tbh. Truffaut pinterest copper mug selvage wolf. Palo santo cornhole tbh gatekeep sartorial, taxidermy bicycle rights. Palo santo gastropub pour-over, chillwave occupy jawn lomo marfa four dollar toast pug meditation DIY migas drinking vinegar fixie.\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nx = np.linspace(0, 2 * np.pi, 400)\ny = np.sin(x ** 3)\n\nfig, axs = plt.subplots(2)\naxs[0].plot(x, y)\naxs[1].plot(x, -y)\n\nplt.show()"
+  },
+  {
+    "objectID": "about.html#section1",
+    "href": "about.html#section1",
+    "title": "About",
+    "section": "",
+    "text": "Freegan vaporware cupping blog, portland grailed asymmetrical knausgaard artisan tousled. Seitan DIY crucifix, roof party celiac slow-carb fixie shaman four dollar toast before they sold out taiyaki health goth bushwick sartorial. Truffaut synth edison bulb freegan gorpcore tousled mustache.\n\n\nKinfolk keytar intelligentsia, kogi marxism mustache bespoke street art whatever kombucha vaporware tumeric sus tbh. Truffaut pinterest copper mug selvage wolf. Palo santo cornhole tbh gatekeep sartorial, taxidermy bicycle rights. Palo santo gastropub pour-over, chillwave occupy jawn lomo marfa four dollar toast pug meditation DIY migas drinking vinegar fixie.\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nx = np.linspace(0, 2 * np.pi, 400)\ny = np.sin(x ** 3)\n\nfig, axs = plt.subplots(2)\naxs[0].plot(x, y)\naxs[1].plot(x, -y)\n\nplt.show()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DSAN5000-Lab1.2",
+    "section": "",
+    "text": "This is a Quarto website To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus gravida quis blandit turpis cursus in hac habitasse platea. Eget gravida cum sociis natoque penatibus. Eget est lorem ipsum dolor sit amet. Diam in arcu cursus euismod. Feugiat in fermentum posuere urna.\n\n\n\n\nLacus sed turpis tincidunt id aliquet. Mus mauris vitae ultricies leo integer. Egestas pretium aenean pharetra magna. Dignissim suspendisse in est ante in nibh mauris cursus mattis. Consequat id porta nibh venenatis. Purus sit amet luctus venenatis lectus magna fringilla. Adipiscing elit ut aliquam purus sit amet luctus venenatis. Tempus quam pellentesque nec nam aliquam sem et tortor. Molestie nunc non blandit massa. Donec enim diam vulputate ut pharetra sit amet.\n\n\n\n\n\n\n\n\n\nNisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit. Tincidunt augue interdum velit euismod.\nEnim sit amet venenatis urna cursus eget nunc. Arcu cursus vitae congue mauris rhoncus aenean.\n\n\n\n\n\nPharetra massa massa ultricies mi quis hendrerit dolor. Leo integer malesuada nunc vel risus commodo viverra maecenas.\nAliquam ut porttitor leo a. Nulla aliquet enim tortor at auctor urna nunc. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien et ligula.\nFaucibus in ornare quam viverra orci sagittis eu. Nisi est sit amet facilisis magna.\n\n\n\n\n\nmarkdown table\n\n\n\n\ncolumn 1\ncolumn 2\n\n\n\n\nitem A\nitem B\n\n\nitem C\nitem D\n\n\n\nin-line math equation:\n\\(f(x)=\\frac{e^{\\pi x^2}}{3}\\)\nnon in-line math equation:\n\\[f(x)g(x) = e^x x^n \\rightarrow \\ (f(x)g(x))' = e^x x^n + e^x nx^{n-1}\\]\nfoot-note:\ninclude one foot-note in this file like this1.\nquote:\n&gt; watch and learn\ntwo embedded images:\n \nembedded video:\n\nMermaid diagram:\n\n\n\n\nflowchart LR\n    A[Machine Language] --&gt; B[Assembly Language]\n    B --&gt; C{High-level Programming Language}\n    C --&gt; D[c]\n    C --&gt; E[java]\n    C --&gt; F[python]\n\n\nA Mermaid diagram\n\n\n\ncitations:\n(Zhou et al. 2021)"
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "DSAN5000-Lab1.2",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus gravida quis blandit turpis cursus in hac habitasse platea. Eget gravida cum sociis natoque penatibus. Eget est lorem ipsum dolor sit amet. Diam in arcu cursus euismod. Feugiat in fermentum posuere urna.\n\n\n\n\nLacus sed turpis tincidunt id aliquet. Mus mauris vitae ultricies leo integer. Egestas pretium aenean pharetra magna. Dignissim suspendisse in est ante in nibh mauris cursus mattis. Consequat id porta nibh venenatis. Purus sit amet luctus venenatis lectus magna fringilla. Adipiscing elit ut aliquam purus sit amet luctus venenatis. Tempus quam pellentesque nec nam aliquam sem et tortor. Molestie nunc non blandit massa. Donec enim diam vulputate ut pharetra sit amet."
+  },
+  {
+    "objectID": "index.html#list-one",
+    "href": "index.html#list-one",
+    "title": "DSAN5000-Lab1.2",
+    "section": "",
+    "text": "Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit. Tincidunt augue interdum velit euismod.\nEnim sit amet venenatis urna cursus eget nunc. Arcu cursus vitae congue mauris rhoncus aenean."
+  },
+  {
+    "objectID": "index.html#list-two",
+    "href": "index.html#list-two",
+    "title": "DSAN5000-Lab1.2",
+    "section": "",
+    "text": "Pharetra massa massa ultricies mi quis hendrerit dolor. Leo integer malesuada nunc vel risus commodo viverra maecenas.\nAliquam ut porttitor leo a. Nulla aliquet enim tortor at auctor urna nunc. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien et ligula.\nFaucibus in ornare quam viverra orci sagittis eu. Nisi est sit amet facilisis magna."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "DSAN5000-Lab1.2",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\na foot-note in this text.↩︎"
+  }
+]
