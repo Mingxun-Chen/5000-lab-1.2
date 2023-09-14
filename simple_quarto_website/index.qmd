@@ -12,12 +12,12 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 :::: {.columns}
 ::: {.column width="50%"}
-### Column-1
+## Column-1
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus gravida quis blandit turpis cursus in hac habitasse platea. Eget gravida cum sociis natoque penatibus. Eget est lorem ipsum dolor sit amet. Diam in arcu cursus euismod. Feugiat in fermentum posuere urna.  
 :::
 
 ::: {.column width="50%"}
-### Column-2
+## Column-2
 Lacus sed turpis tincidunt id aliquet. Mus mauris vitae ultricies leo integer. Egestas pretium aenean pharetra magna. Dignissim suspendisse in est ante in nibh mauris cursus mattis. Consequat id porta nibh venenatis. Purus sit amet luctus venenatis lectus magna fringilla. Adipiscing elit ut aliquam purus sit amet luctus venenatis. Tempus quam pellentesque nec nam aliquam sem et tortor. Molestie nunc non blandit massa. Donec enim diam vulputate ut pharetra sit amet.
 :::
 ::::
@@ -53,6 +53,7 @@ include one foot-note in this file like __this__[^1].
 [^1]: a foot-note in this text.
 
 <br>quote:  
+
 > watch and learn
 
 <br>two embedded images:  
@@ -77,9 +78,8 @@ flowchart LR
 <br>citations:  
 [@zhou2021informer]
 
+## Section 2
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
 
 
-### Section-1.1
-
-#### citations
